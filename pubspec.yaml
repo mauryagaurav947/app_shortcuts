@@ -4,14 +4,14 @@ version: 0.0.1
 homepage: https://github.com/cstsortan/app_shortcuts
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
-  flutter: ">=1.20.0"
+  sdk: ^3.5.4
+  flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
   dia: ^0.1.5
-  url_launcher: ^6.1.11
+  url_launcher: ^6.3.1
 
 dev_dependencies:
   flutter_test:
